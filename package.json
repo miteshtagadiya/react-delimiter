@@ -1,7 +1,7 @@
 {
   "name": "react-delimiter",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react-scripts": "1.1.4"
   },
@@ -15,7 +15,7 @@
     "deploy": "gh-pages -d examples/dist",
     "publish-demo": "npm run build && npm run deploy"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "description": "Array Delimiter",
   "main": "dist/index.js",
   "peerDependencies": {
     "react": "^16.3.0",
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miteshtagadiya/package-boilerplate.git"
+    "url": "git+https://github.com/miteshtagadiya/react-delimiter.git"
   },
   "keywords": [
     "boilerplate",
@@ -50,7 +50,7 @@
   "author": "Mitesh Tagadiya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miteshtagadiya/package-boilerplate/issues"
+    "url": "https://github.com/miteshtagadiya/react-delimiter/issues"
   },
-  "homepage": "https://github.com/miteshtagadiya/package-boilerplate#readme"
+  "homepage": "https://github.com/miteshtagadiya/react-delimiter#readme"
 }
