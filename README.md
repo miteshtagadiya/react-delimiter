@@ -1,5 +1,10 @@
 # react-delimiter
 
+[![npm](https://img.shields.io/npm/v/react-delimiter.svg)](https://www.npmjs.com/package/react-delimiter) 
+[![npm](https://img.shields.io/npm/dw/react-delimiter.svg)](https://www.npmjs.com/package/react-delimiter)
+![npm](https://img.shields.io/npm/l/react-delimiter.svg)
+
+
 Array Delimiter(Deliminate last number or string with "and" or "or")
 
 
