@@ -25,7 +25,7 @@ import { delimiter } from "react-delimiter";
 
 ## Example
 ```jsx
-import delimiter from 'react-delimiter';
+import { delimiter } from 'react-delimiter';
 
 render() {
     <h4>{delimiter([1, 2, 3], "and")}</h4>
@@ -41,6 +41,14 @@ render() {
     string= "and" or "or"
 }
 ```
+
+|Input               |Output|        
+|--------------------|------|
+|validate(123)       |123   | 
+|validate(undefined) |N/A   |
+|validate(null)      |N/A   |
+|validate(Infinity)  |-     |
+|validate(NaN)       |N/A   |
 
 ## Parameters Details
 
