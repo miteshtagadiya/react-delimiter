@@ -1,6 +1,6 @@
 {
   "name": "react-delimiter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "dependencies": {
     "react-scripts": "1.1.4"
@@ -42,10 +42,8 @@
     "url": "git+https://github.com/miteshtagadiya/react-delimiter.git"
   },
   "keywords": [
-    "boilerplate",
-    "code",
-    "for",
-    "package"
+    "Array Delimiter",
+    "Delimiter"
   ],
   "author": "Mitesh Tagadiya",
   "license": "MIT",
