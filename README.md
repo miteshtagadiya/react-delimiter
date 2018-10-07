@@ -47,13 +47,15 @@ render() {
 }
 ```
 
-|Input               |Output|        
-|--------------------|------|
-|validate(123)       |123   | 
-|validate(undefined) |N/A   |
-|validate(null)      |N/A   |
-|validate(Infinity)  |-     |
-|validate(NaN)       |N/A   |
+|Input                       |Output    |        
+|----------------------------|----------|
+|delimiter([1, 2, 3], "and") |1, 2 and 3| 
+|delimiter([1, 2, 3], "or")  |1, 2 or 3 |
+|delimiter([1, 2], "or")     |1 or 2    |
+|delimiter([1, 2], "and")    |1 and 2   |
+|delimiter([1], "or")        |1         |
+|delimiter([1], "and")       |1         |
+
 
 ## Parameters Details
 
