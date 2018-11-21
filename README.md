@@ -1,6 +1,7 @@
 # react-delimiter
 
 [![npm](https://img.shields.io/npm/v/react-delimiter.svg)](https://www.npmjs.com/package/react-delimiter) 
+[![npm](https://img.shields.io/npm/dm/react-delimiter.svg)](https://www.npmjs.com/package/react-delimiter) 
 [![npm](https://img.shields.io/npm/dw/react-delimiter.svg)](https://www.npmjs.com/package/react-delimiter)
 ![npm](https://img.shields.io/npm/l/react-delimiter.svg)
 
